@@ -33,6 +33,10 @@
 - 合集包  
 巨龙包
 
+# 已知问题
+- 部分卡牌不显示（主要影响图片开包，拼写原因）    
+- 卡牌信息不准确（由于本地化和平衡性调整，卡牌属性、名称和描述会时常发生变化）  
 
 
 插件问题请联系插件开发者交流群<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=lqxi6UPqe3WDrdnWtoVWUejRT5RbMbJT&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="复读机行为观察中心" title="复读机行为观察中心"></a>
+如打开缓慢可尝试[国内版](https://gitee.com/hojony/hs)
